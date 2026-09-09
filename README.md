@@ -4,6 +4,6 @@ Implemented in Go https://go.dev
 
 Requisites:
 
-  $ go version
-  go version go1.26.8 darwin/amd64
-  $
+    $ go version
+    go version go1.26.8 darwin/amd64
+    $
