@@ -1,4 +1,5 @@
 Advent of Code 2025
+https://adventofcode.com/2025
 
 Implemented in Go https://go.dev
 
